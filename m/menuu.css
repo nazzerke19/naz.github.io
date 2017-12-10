@@ -1,0 +1,32 @@
+div#menu {
+ //width:144px; 
+top no-repeat; padding-top:40px;
+}
+div#menubody {
+ repeat-y;
+ padding-left:15px;
+  }
+
+ ul#menulist {
+width:100px; list-style-type:none;
+}
+ ul#menulist li {
+height:32px; 
+bottom repeat-x;
+}
+ ul#menulist a {
+width:100px; height:25px; border-left:#75c5de 
+10px solid; font:bold 10px Verdana, Arial, sans-serif;
+  text-decoration:none; padding:5px 0 0 5px;
+ display:block !important; display:inline-block;
+}
+ ul#menulist a:hover {
+ left 
+repeat-y ; color:#000
+}
+ ul#menulist #active a {
+
+left repeat-y;
+} 
+
+
